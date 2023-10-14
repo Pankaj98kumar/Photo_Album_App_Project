@@ -7,5 +7,5 @@ This is a Simple Photo album app which show all the uploaded Images based on cat
 4. python manage.py migrate
 5. python manage.py createsuperuser
 6. python manage.py runserver
-   ![Photo_Album](Image URL)
+   ![Photo_Album](https://github.com/Pankaj98kumar/Photo_Album_App_Project/blob/main/Photo_album.png)
 
